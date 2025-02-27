@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="login">Login</string>
+    <string name="faca_login">Please sign in to continue</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Password</string>
+    <string name="entre">SIGN IN</string>
+    <string name="nao_conta">Don\'t have an account?</string>
+    <string name="cria_conta">Sign up</string>
+
+</resources>
